@@ -166,9 +166,7 @@ A full-stack AI-powered fashion e-commerce platform with three user roles:
 
 📧 **Email:** shakoorhussain395@gmail.com
 
-🔗 **LinkedIn:** [www.linkedin.com/in/shakoor-hussain-4a7243317
-
-](#)
+🔗 **LinkedIn:** [www.linkedin.com/in/shakoor-hussain-4a7243317](#)
 
 💻 **GitHub:** [https://github.com/ShakoorHussain/ShakoorHussain](#)
 
